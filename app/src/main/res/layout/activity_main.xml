@@ -88,7 +88,7 @@
         android:layout_margin="20dp"
         android:backgroundTint="@color/green"
         android:text="Вход"
-        co
+     
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/password"
